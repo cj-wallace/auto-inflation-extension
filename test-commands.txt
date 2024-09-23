@@ -1,0 +1,1 @@
+curl -X GET "https://www.statbureau.org/calculate-inflation-price-jsonp?country=united-states&start=2020/1/1&end=2021/1/1&amount=100"
